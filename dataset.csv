@@ -1,0 +1,19 @@
+text,sentiment
+"This product is amazing! Exceeded all my expectations.",Positive
+"Absolutely love the build quality and fast delivery.",Positive
+"Works like a charm, worth every single rupee.",Positive
+"Great customer support and smooth user experience.",Positive
+"Fantastic performance, highly recommended to everyone!",Positive
+"Very happy with this purchase, will buy again.",Positive
+"Worst experience ever. Completely broken on arrival.",Negative
+"Total waste of money, stopped working after two days.",Negative
+"Terrible customer service, nobody responds to emails.",Negative
+"Poor quality material and very disappointing performance.",Negative
+"Do not buy this, it is a complete scam.",Negative
+"Hate the interface, crashes every single time.",Negative
+"The package arrived on time, nothing special.",Neutral
+"It works okay for basic tasks, average quality.",Neutral
+"Neither good nor bad, just an ordinary product.",Neutral
+"Delivery was standard, product matches the description.",Neutral
+"Decent for the price, though could be improved.",Neutral
+"Just received it today, still testing the features.",Neutral
